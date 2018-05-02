@@ -1,1 +1,2 @@
-"Here is our first branch" 
+Here is our first branch
+Now we are adding a second line
